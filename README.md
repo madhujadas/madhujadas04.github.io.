@@ -1,48 +1,13 @@
-Hey, I'm Madhuja Das 👋
+Hi, I'm Madhuja Das!
 
-MBA | Business Analytics & Marketing
+I'm someone who enjoys understanding how businesses work, why customers make certain decisions, and how data can uncover opportunities for growth.
 
-I am interested in understanding businesses, analysing customer behaviour, and turning data into meaningful business decisions.
+With a background in Business Analytics and an MBA specialisation in Business Analytics & Marketing, I'm passionate about bringing together analytical thinking, marketing perspectives and business understanding.
 
-I enjoy combining analytical thinking with marketing strategy to identify opportunities, understand customers, and support business growth.
+I believe there's always more to a number than what it shows and more to a challenge than what meets the eye.
 
-🎓 Education
+Curious by nature, always learning, and excited to turn ideas into meaningful insights.
 
-- MBA – Business Analytics & Marketing
-- BBA – Business Analytics
+Let's connect and explore my journey!
 
-🏆 Achievement
-
-MAKAUT University Topper — Second Rank, Business Analytics (2022–25)
-
-💡 Areas of Interest
-
-- Growth Analytics
-- Growth Marketing
-- Marketing Strategy
-- Funnel Analysis
-- Customer Retention
-- Data Storytelling
-
-🛠️ Skills
-
-- Microsoft Excel
-- Marketing Analytics
-- Business Analysis
-- Customer Experience
-
-📊 Featured Projects
-
-- E-commerce Marketing Analytics – Excel
-- Nykaa Customer Retention Strategy – Case Study
-- Marketing Research – Consumer Referral and Word-of-Mouth
-
-🌐 Portfolio
-
-Explore my projects, certifications, achievements and professional journey:
-
-"Visit My Portfolio" (https://madhuja-metrics-and-muse.lovable.app)
-
----
-
-Ask. Analyse. Understand. Grow.
+"Explore My Portfolio →" (https://madhuja-metrics-and-muse.lovable.app)
